@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[172],{8172:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var t=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v("待建设。。。")])},l=[],a={name:"PageOne",data:function(){}},r=a,c=u(1001),f=(0,c.Z)(r,t,l,!1,null,null,null),s=f.exports}}]);
+//# sourceMappingURL=172-legacy.56945cdd.js.map

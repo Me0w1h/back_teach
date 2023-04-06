@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkvue"]=self["webpackChunkvue"]||[]).push([[992],{992:function(e,n,u){u.r(n),u.d(n,{default:function(){return s}});var t=function(){var e=this,n=e.$createElement,u=e._self._c||n;return u("div",[e._v("待建设。。。")])},l=[],a={name:"PageTwo",data:function(){}},r=a,c=u(1001),f=(0,c.Z)(r,t,l,!1,null,null,null),s=f.exports}}]);
+//# sourceMappingURL=992-legacy.bee1b869.js.map
